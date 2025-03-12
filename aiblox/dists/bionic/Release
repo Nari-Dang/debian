@@ -1,0 +1,20 @@
+Origin: aiblox
+Label: Ai-Blox debian packages
+Suite: stable
+Codename: bionic
+Date: Wed, 12 Mar 2025 08:49:27 UTC
+Architectures: arm64
+Components: main
+Description: Debian arm64 Ai-Blox github repository
+MD5Sum:
+ 92eb3d6c271099921342e82b6e66d491 723 main/binary-arm64/Packages
+ 66f06fce74be67df03d0dac97f290b37 427 main/binary-arm64/Packages.gz
+ e54642ac9acb32e3c3b3495ab9b9311a 150 main/binary-arm64/Release
+SHA1:
+ 2e0acb5e67fa32b96f97287cbbe5b7c1996ad244 723 main/binary-arm64/Packages
+ e84d41f9a99272b6aeea36d8aa57a2e900281bb9 427 main/binary-arm64/Packages.gz
+ 1f4a00cc5ce2111160e0f510a2a4dc7d78ed5eae 150 main/binary-arm64/Release
+SHA256:
+ 8dfb0d562f844b73659feafc744e3d2dad1ed2215191325e0282299eb7c82642 723 main/binary-arm64/Packages
+ 48e4f8a73b23e042ff927e4acd9eca107a9f056b8fb403c6dd4c6fc96c25471e 427 main/binary-arm64/Packages.gz
+ e3d164154efb68998ffdbf85a000d23daf5d02984666237a91e30d8449ad2900 150 main/binary-arm64/Release

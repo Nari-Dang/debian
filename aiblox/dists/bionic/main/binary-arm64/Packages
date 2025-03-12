@@ -1,0 +1,17 @@
+Package: nvidia-l4t-bootloader
+Version: 36.4.3-20250107174145+aib-rev1.0
+Architecture: arm64
+Maintainer: NVIDIA Corporation
+Installed-Size: 94718
+Pre-Depends: nvidia-l4t-core (>> 36.4-0), nvidia-l4t-core (<< 36.5-0)
+Depends: nvidia-l4t-tools (= 36.4.3-20250107174145), nvidia-l4t-init (>> 36.4-0), nvidia-l4t-init (<< 36.5-0)
+Homepage: http://developer.nvidia.com/jetson
+Priority: 0
+Section: utils
+Filename: pool/main/n/nvidia-l4t-bootloader/nvidia-l4t-bootloader_36.4.3-20250107174145+aib-rev1.0_arm64.deb
+Size: 39139420
+SHA256: 91a40f8b5078a30c9d26304c8fe81b2a7d21f52e28133e25f10ab0f61eaaf209
+SHA1: 920d6e30f35ee3a3442b8790deaf2ce8fca78edc
+MD5sum: 86ee2447dad0498ef7c6d303ce84a478
+Description: NVIDIA Bootloader Package
+
