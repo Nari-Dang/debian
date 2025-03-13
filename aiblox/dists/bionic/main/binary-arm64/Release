@@ -1,6 +1,0 @@
-Archive: stable
-Component: main
-Origin: aiblox
-Label: Ai-Blox debian packages
-Architecture: arm64
-Description: Debian arm64 Ai-Blox github repository
